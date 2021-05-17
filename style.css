@@ -1,0 +1,24 @@
+.header{
+    background-image: url("images/_018.jpg");
+    /* background-size: ; */
+
+}
+.header_index{
+    backface-visibility:hidden;
+}
+.header_camel{
+    background-color: rgb(238, 235, 81);
+    display: flex;
+
+}
+
+.grid{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+.footer{
+    background-color: darkorange;
+    display: flex;
+    justify-content:space-evenly;
+}
